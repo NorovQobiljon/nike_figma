@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.list {
+    display: flex;
+    gap: 35px;
+}
+
+.list_item {
+    font-family: Pragmatica;
+    font-size: 14px;
+    font-weight: 400;
+    color: #585858;
+    cursor: pointer;
+}
+
+.list_item:hover {
+    color: #242424;
+}
+
+.regestration {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.log_in_text {
+    color: #494949;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.div_hr {
+    width: 100%;
+    height: 0.1em;
+    background-color: #EAEAEA;
+}
+
+.ss_img {
+    width: Hug (88.18px)px;
+    height: Hug (69.93px)px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.div_hr_right {
+    padding: 25px 30px 25px 0px;
+    gap: 0px;
+    border: 0px 1px 0px 0px;
+    opacity: 0px;
+    border-right: 0.1em solid #EAEAEA;
+}
+
+.menyu_bar {
+    display: flex;
+    padding-top: 10px;
+    margin-left: 65px;
+}
+
+.fa-solid {
+    cursor: pointer;
+}
+
+.menyu_list {
+    display: flex;
+    gap: 55px;
+    padding-top: 2.5px;
+}
+
+.menyu_list_item {
+    font-family: Pragmatica;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 11px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.box_icons {
+    display: flex;
+    margin-left: 42%;
+}
+
+.box_1 {
+    width: 50px;
+    height: 50px;
+    border-right: 0.1em solid #EAEAEA;
+    border-left: 0.1em solid #EAEAEA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_2 {
+    width: 50px;
+    height: 50px;
+    border-right: 0.1em solid #EAEAEA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-regular {
+    cursor: pointer;
+}
+
+.box_3 {
+    width: 50px;
+    height: 50px;
+    border-right: 0.1em solid #EAEAEA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:576px) {
+    .max_menyu_img{
+        cursor: pointer;
+    }
+    .max_icons{
+        cursor: pointer;
+    }
+}
