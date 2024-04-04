@@ -118,11 +118,118 @@
     align-items: center;
 }
 
+.header_left_page {
+    margin-top: 125px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.air_max {
+    font-family: Pragmatica;
+    font-size: 67px;
+    font-weight: 500;
+    line-height: 81.83px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.chiziq {
+    width: 120px;
+    height: 2px;
+    background-color: #000000;
+    margin-top: 10px;
+}
+
+.racer_text {
+    font-family: Pragmatica;
+    font-size: 67px;
+    font-weight: 500;
+    line-height: 81.83px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.header_paragraf {
+    width: 500px;
+    font-family: Pragmatica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #292929;
+}
+
+.summa {
+    font-family: Pragmatica;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+.narx {
+    font-family: Pragmatica;
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 26px;
+    color: #000000;
+}
+
+.header_btn {
+    display: flex;
+    width: 240px;
+    margin-top: 20px;
+    margin-bottom: 56px;
+}
+
+.btn_1 {
+    width: 180px;
+    font-family: Pragmatica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.98px;
+    color: #ffff;
+    background-color: #1E1E1E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.btn_1_ {
+    width: 60px;
+    height: 60px;
+    background-color: #000000;
+    border: none;
+    color: #ffff;
+    border-radius: 0px 5px 5px 0px;
+}
 
 
 
+.btn_2{
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    border: none;
+    border: 2px solid #E2E2E2;
+    background-color: #ffff;
+    font-size: 20px;
+}
 
-
+.btn_3{
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    border: none;
+    border: 2px solid #ffff;
+    background-color: #E2E2E2;
+    font-size: 20px;
+}
 
 
 
@@ -138,10 +245,11 @@
 
 
 @media(max-width:576px) {
-    .max_menyu_img{
+    .max_menyu_img {
         cursor: pointer;
     }
-    .max_icons{
+
+    .max_icons {
         cursor: pointer;
     }
 }
