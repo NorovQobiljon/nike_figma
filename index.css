@@ -209,9 +209,7 @@
     border-radius: 0px 5px 5px 0px;
 }
 
-
-
-.btn_2{
+.btn_2 {
     width: 98px;
     height: 98px;
     border-radius: 50%;
@@ -221,7 +219,7 @@
     font-size: 20px;
 }
 
-.btn_3{
+.btn_3 {
     width: 98px;
     height: 98px;
     border-radius: 50%;
@@ -230,6 +228,17 @@
     background-color: #E2E2E2;
     font-size: 20px;
 }
+
+.header_left_img {
+    width: 750px;
+    height: 900px;
+}
+
+.nike_img {
+    width: 100%;
+    height: 100%;
+}
+
 
 
 
@@ -251,5 +260,82 @@
 
     .max_icons {
         cursor: pointer;
+    }
+
+    .air_div {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .max_air_text {
+        font-family: Pragmatica;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 40.32px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    .liniya {
+        width: 110px;
+        height: 2px;
+        background-color: #000000;
+    }
+
+    .max_racer {
+        font-family: Pragmatica;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 40.32px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    .max_paragraf {
+        width: 328px;
+        font-family: Pragmatica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23px;
+        color: #292929;
+    }
+
+    .nike_img_max {
+        width: 330px;
+        height: 340px;
+        margin: auto;
+    }
+
+    .price {
+        font-family: Pragmatica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20px;
+        color: #000000;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .narxi {
+        font-family: Pragmatica;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 26px;
+        color: #000000;
+    }
+
+    .header_btn_responsive {
+        display: flex;
+        width: 240px;
+        margin-top: 40px;
+        margin-bottom: 56px;
+        margin: auto;
+    }
+
+    .nuqta_div {
+        text-align: center;
+        margin-top: 30px;
     }
 }
