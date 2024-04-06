@@ -271,11 +271,129 @@
     margin-top: 75px;
     gap: 20px;
 }
-.strelka{
+
+.strelka {
     cursor: pointer;
 }
 
+.section_box {
+    width: 400px;
+    border: 2px solid rebeccapurple;
+}
 
+.nike_vapor {
+    position: absolute;
+    width: 400px;
+    height: 405px;
+}
+
+.logotips {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.logo_novinka {
+    position: relative;
+}
+
+.like_img {
+    position: relative;
+    cursor: pointer;
+}
+
+.hug_div {
+    display: flex;
+    justify-content: center;
+    padding-top: 80%;
+}
+
+.hug_img {
+    position: relative;
+}
+
+.box_paragraf {
+    font-family: Pragmatica;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 11px;
+    letter-spacing: 0.04em;
+    padding-top: 40px;
+    color: #747474;
+    text-transform: uppercase;
+}
+
+.nike_vapor_air {
+    font-family: Pragmatica;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #000000;
+}
+
+.ranglar {
+    display: flex;
+    gap: 10px;
+}
+
+.rang {
+    font-family: Pragmatica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.color_1 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #A8B7BF;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color_2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #2A2C2D;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color_3 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #F81D2A;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color_4 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #F8F8F9;
+    cursor: pointer;
+    margin-top: px;
+}
+
+.prise {
+    font-family: Pragmatica;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #000000;
+}
+
+.skidka {
+    font-family: Pragmatica;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+
+}
 
 
 
