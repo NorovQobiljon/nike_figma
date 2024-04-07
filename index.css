@@ -276,9 +276,13 @@
     cursor: pointer;
 }
 
+.section_father {
+    display: flex;
+    justify-content: space-between;
+}
+
 .section_box {
     width: 400px;
-    border: 2px solid rebeccapurple;
 }
 
 .nike_vapor {
@@ -385,6 +389,7 @@
     font-weight: 600;
     line-height: 26px;
     color: #000000;
+    padding-top: 10px;
 }
 
 .skidka {
@@ -392,8 +397,52 @@
     font-size: 18px;
     font-weight: 500;
     line-height: 26px;
-
+    text-decoration-line: line-through;
+    color: #999999;
 }
+
+.full_price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.color-1 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #6F97CC;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color_1_ {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #64E1CB;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color-2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #4296C3;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.color_3_ {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #D81F64;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
 
 
 
@@ -528,9 +577,26 @@
     .res_paragraf {
         width: 300px;
         font-family: Pragmatica;
-        font-size: 18px;
+        font-size: 15px;
         font-weight: 400;
         line-height: 21px;
         color: #4B4B4B;
+    }
+
+    .res_text_1 {
+        font-family: Pragmatica;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    .res_hug_img {
+        display: flex;
+        gap: 10px;
+    }
+
+    .max_hug_img {
+        padding-top: 40px;
     }
 }
