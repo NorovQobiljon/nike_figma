@@ -443,115 +443,6 @@
     margin-top: 5px;
 }
 
-.father_card {
-    width: 158px;
-}
-
-.nike_vapor_white {
-    position: absolute;
-}
-
-.vector_div {
-    text-align: end;
-    padding: 5px;
-}
-
-.vector_like {
-    position: relative;
-}
-
-.pol {
-    font-family: Pragmatica;
-    font-size: 11px;
-    font-weight: 500;
-    line-height: 11px;
-    letter-spacing: 0.04em;
-    padding-top: 140px;
-    color: #747474;
-    position: relative;
-}
-
-.nike_name {
-    font-family: Pragmatica;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 22px;
-    color: #000000;
-}
-
-.colors {
-    display: flex;
-    gap: 10px;
-}
-
-.card_colors {
-    font-family: Pragmatica;
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 26px;
-    color: #2E2E2E;
-}
-
-.card_color_1 {
-    width: 13px;
-    height: 13px;
-    border-radius: 50%;
-    background-color: #A8B7BF;
-    margin-top: 6px;
-}
-
-.card_color_2 {
-    width: 13px;
-    height: 13px;
-    border-radius: 50%;
-    background-color: #2A2C2D;
-    margin-top: 6px;
-}
-
-.card_color_3 {
-    width: 13px;
-    height: 13px;
-    border-radius: 50%;
-    background-color: #F81D2A;
-    margin-top: 6px;
-}
-
-.card_color_4 {
-    width: 13px;
-    height: 13px;
-    border-radius: 50%;
-    background-color: #F8F8F9;
-    margin-top: 6px;
-}
-
-.card_prices {
-    display: flex;
-    justify-content: space-between;
-}
-
-.card_price {
-    font-family: Pragmatica;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 26px;
-    color: #000000;
-}
-
-.card_price_span {
-    font-family: Pragmatica;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 26px;
-    color: #999999;
-    text-decoration-line: line-through;
-}
-
-.father_section_res{
-    display: flex;
-    gap: 20px;
-    justify-content: space-between;
-}
-
 
 
 
@@ -706,4 +597,184 @@
     .max_hug_img {
         padding-top: 40px;
     }
+
+    .father_card {
+        width: 158px;
+    }
+
+    .nike_vapor_white {
+        position: absolute;
+    }
+
+    .vector_div {
+        text-align: end;
+        padding: 5px;
+    }
+
+    .vector_like {
+        position: relative;
+    }
+
+    .pol {
+        font-family: Pragmatica;
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 11px;
+        letter-spacing: 0.04em;
+        padding-top: 140px;
+        color: #747474;
+        position: relative;
+    }
+
+    .nike_name {
+        font-family: Pragmatica;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .colors {
+        display: flex;
+        gap: 10px;
+    }
+
+    .card_colors {
+        font-family: Pragmatica;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 26px;
+        color: #2E2E2E;
+    }
+
+    .card_color_1 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #A8B7BF;
+        margin-top: 6px;
+    }
+
+    .card_color_2 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #2A2C2D;
+        margin-top: 6px;
+    }
+
+    .card_color_3 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #F81D2A;
+        margin-top: 6px;
+    }
+
+    .card_color_4 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #F8F8F9;
+        margin-top: 6px;
+    }
+
+    .card_prices {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .card_price {
+        font-family: Pragmatica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 26px;
+        color: #000000;
+    }
+
+    .card_price_span {
+        font-family: Pragmatica;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        color: #999999;
+        text-decoration-line: line-through;
+    }
+
+    .father_section_res {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .precent {
+        position: relative;
+    }
+
+    .vector_div_ {
+        display: flex;
+        justify-content: space-between;
+        padding: 5px;
+    }
+
+    .vector_like_ {
+        position: relative;
+    }
+
+    .card_color_1_ {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #6F97CC;
+        margin-top: 6px;
+    }
+
+    .card_color_2_ {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #2A2C2D;
+        margin-top: 6px;
+    }
+
+    .card_price_ {
+        font-family: Pragmatica;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 26px;
+        color: #000000;
+        padding-top: 15px;
+    }
+
+    .card_color-1 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #64E1CB;
+        margin-top: 6px;
+    }
+
+    .card_color-2 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #4296C3;
+        margin-top: 6px;
+    }
+
+    .card_color-3 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #D81F64;
+        margin-top: 6px;
+    }
+
+    .card_color-4 {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background-color: #F8F8F9;
+        margin-top: 6px;
+    }
+
 }
