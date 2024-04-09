@@ -484,6 +484,9 @@
         align-items: center;
         gap: 20px;
     }
+    .res_ss_img_div{
+        text-align: center;
+    }
 
     .max_air_text {
         font-family: Pragmatica;
@@ -555,6 +558,10 @@
         text-align: center;
         margin-top: 30px;
         margin-bottom: 40px;
+    }
+
+    .header_res_class{
+        margin: auto;
     }
 
     .header_bottom_responsive {
